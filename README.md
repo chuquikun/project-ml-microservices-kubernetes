@@ -51,5 +51,4 @@ source .devops/bin/activate
 
 
 ### CircleCI Badge
-[![chuqui_udacity_projects](https://circleci.com/gh/chuqui_udacity_projects/opereationalize_ml_microservice.svg?style=svg)](https://app.circleci.com/pipelines/github/chuquikun/project-ml-microservices-kubernetes/6/workflows/fab5201a-c2bc-4531-a20d-df38bca5399a/jobs/5)
-
+[![chuquikun](https://circleci.com/gh/chuquikun/operationalize_ml_microservice.svg?style=svg)](https://app.circleci.com/pipelines/github/chuquikun/project-ml-microservices-kubernetes?branch=main)
