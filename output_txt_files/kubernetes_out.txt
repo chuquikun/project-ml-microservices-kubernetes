@@ -1,1 +1,4 @@
-<paste log output from Kubernetes-mediated prediction, here>
+NAME                                   READY   STATUS    RESTARTS   AGE
+boston-house-pricer                    1/1     Running   0          4m53s
+boston-house-pricer-5d86c967c5-hpfdj   1/1     Running   0          3m27s
+Forwarding from 0.0.0.0:8000 -> 80
