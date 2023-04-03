@@ -48,3 +48,8 @@ source .devops/bin/activate
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
+
+
+### CircleCI Badge
+[![chuqui_udacity_projects](https://circleci.com/gh/chuqui_udacity_projects/opereationalize_ml_microservice.svg?style=svg)](https://app.circleci.com/pipelines/github/chuquikun/project-ml-microservices-kubernetes/6/workflows/fab5201a-c2bc-4531-a20d-df38bca5399a/jobs/5)
+
